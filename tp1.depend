@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554501611 source:c:\users\leooe\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554398342 c:\users\leooe\desktop\tp1\calculadora.h
+
+1554500216 source:c:\users\leooe\desktop\tp1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
